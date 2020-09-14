@@ -11,16 +11,16 @@
 	<a href="https://github.com/sponsors/thomast404"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
 </p>
 
-**ABOUT ME**
+**ABOUT ME**. 
 I have been coding since I was 11, it was at that age that I discovered that we could write things that made our lives easier or had a greater impact (websites).  
 Since then I have been CTO of a website development company using Shopify for online stores.  
 And one day maybe I'll live in Canada \*my dream\*
 
-**LANGUAGES**
+**LANGUAGES**. 
 Javascript, Typescript, HTML/CSS, Shell, MySQL, Redis, Go, Liquid, PHP
 
-**SKILLS**
+**SKILLS**. 
 Project Management, Continuous Integration/Continuous Development integration, Automated Systems, Agile development, ElectronJS, NodeJS, Deno.land, REST API, ReactJS, GatsbyJS, Netlify, Prismic
 
-**HOBBIES**
+**HOBBIES**. 
 Project on new plateformes, project in new languages, motorbikes, series, philosophy and video games.
