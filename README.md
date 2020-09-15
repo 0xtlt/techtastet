@@ -5,10 +5,10 @@
 </p>  
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=Personal-Website&color=brightgreen&link=https://thomas-tastet.me" /img>
-	<a href="https://github.com/thomast404"><img src="https://img.shields.io/github/followers/thomast404.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/thomast_404"><img src="https://img.shields.io/twitter/follow/thomast_404?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://github.com/sponsors/thomast404"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
+  <img src="https://img.shields.io/static/v1?label=&message=Personal-Website&color=brightgreen&link=https://tastet.tech" /img>
+	<a href="https://github.com/techtastet"><img src="https://img.shields.io/github/followers/techtastet.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/techtastet"><img src="https://img.shields.io/twitter/follow/techtastet?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://github.com/sponsors/techtastet"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
 </p>
 
 **ABOUT ME**  
