@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-<img width=498 height=276 src=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F13HgwGsXF0aiGY%2Fgiphy.gif&f=1&nofb=1 />
+<img width=498 height=276 src=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdevelopers.giphy.com%2Fstatic%2Fimg%2Fapi.c99e353f761d.gif&f=1&nofb=1 />
 </p>  
 
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 **ABOUT ME**  
-I have been coding since I was 11, it was at that age that I discovered that we could write things that made our lives easier or had a greater impact (websites).  
+I have been coding since I was 11, it was at that age that I discovered that we could write things that made our lives easier or had a greater impact.  
 Since then I have been CTO of a website development company using Shopify for online stores.  
 And one day maybe I'll live in Canada \*my dream\*
 
