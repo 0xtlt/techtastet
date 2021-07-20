@@ -2,7 +2,6 @@
 
 <p align="left">
 	<a href="https://tastet.tech"><img src="https://img.shields.io/static/v1?label=&message=Personal-Website&color=brightgreen&link=https://tastet.tech" /img></a>
-	<a href="https://github.com/techtastet"><img src="https://img.shields.io/github/followers/techtastet.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/thomastastet_"><img src="https://img.shields.io/twitter/follow/thomastastet_?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://github.com/sponsors/techtastet"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
 </p>
